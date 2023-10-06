@@ -1,0 +1,2 @@
+# docker_django_practice
+docker_django_basic
